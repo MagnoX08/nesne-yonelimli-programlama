@@ -1,0 +1,10 @@
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\bin\Debug\HesapMakinesiProjesi.exe.config
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\bin\Debug\HesapMakinesiProjesi.exe
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\bin\Debug\HesapMakinesiProjesi.pdb
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.csproj.AssemblyReference.cache
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.Form1.resources
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.Properties.Resources.resources
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.csproj.GenerateResource.cache
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.exe
+C:\Users\MARMARA\Desktop\HesapMakinesiProjesi\HesapMakinesiProjesi\obj\Debug\HesapMakinesiProjesi.pdb
